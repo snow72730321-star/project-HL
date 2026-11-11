@@ -1,7 +1,7 @@
 config_version=5
 [application]
 config/name="HL · Combat Workshop"
-run/main_scene="res://main.tscn"
+run/main_scene="res://game.tscn"
 [display]
 window/size/viewport_width=1440
 window/size/viewport_height=900

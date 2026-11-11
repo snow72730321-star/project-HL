@@ -92,8 +92,8 @@ func _stage() -> void:
  actor = _sprite("idle")
  enemy = _sprite("guard")
  enemy.position = Vector3(2.3,1.05,0)
- enemy.flip_h = true
- enemy.modulate = Color("e58d91")
+ enemy.modulate = Color.WHITE
+ enemy.flip_h = false
  effect = MeshInstance3D.new()
  var quad := QuadMesh.new()
  quad.size = Vector2(3.2,0.16)
@@ -113,6 +113,8 @@ func _stage() -> void:
  add_child(effect)
 
 func _texture(pose: String) -> Texture2D:
+ var aliases: Dictionary={"idle":"hero_idle","windup":"hero_windup","strike":"hero_strike","guard":"enemy_idle","hurt":"enemy_hurt"}
+ if aliases.has(pose): return load("res://assets/extracted/"+aliases[pose]+".png")
  var path := pose if pose.begins_with("res://") or pose.begins_with("user://") else "res://assets/" + pose + ".svg"
  if not textures.has(path):
   if ResourceLoader.exists(path):
@@ -125,7 +127,7 @@ func _texture(pose: String) -> Texture2D:
 func _sprite(pose: String) -> Sprite3D:
  var s := Sprite3D.new()
  s.texture = _texture(pose)
- s.pixel_size = 0.012
+ s.pixel_size = 0.006
  s.billboard = BaseMaterial3D.BILLBOARD_ENABLED
  s.no_depth_test = false
  add_child(s)
@@ -170,7 +172,7 @@ func _ui() -> void:
  title.add_theme_font_size_override("font_size",24)
  root.add_child(title)
  info = Label.new()
- info.text = "  Original placeholder artwork · 3D stage / 2D poses · Development prototype"
+ info.text = "  Video-extracted screen cutouts · Motion editing / return to battle at bottom"
  root.add_child(info)
  var spacer := Control.new()
  spacer.size_flags_vertical = Control.SIZE_EXPAND_FILL
@@ -185,6 +187,7 @@ func _ui() -> void:
  panel.add_child(body)
  var combat := HBoxContainer.new()
  body.add_child(combat)
+ _button(combat,"BACK TO BATTLE",func():get_tree().change_scene_to_file("res://game.tscn"))
  _button(combat,"01 / CUT",func(): _attack(12,0.7))
  _button(combat,"02 / HEAVY",func(): _attack(24,0.8))
  _button(combat,"03 / QUICK",func(): _attack(8,0.55))

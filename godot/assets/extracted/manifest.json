@@ -1,0 +1,1259 @@
+{
+  "schema": 1,
+  "sources": [
+    {
+      "file": "ScreenRecording_10-10-2026 19-27-24_1.mp4",
+      "sha256": "3d9a1d07565c9a196474091ffd70be7b0218d14ebcdba07465467c8d4e69cceb"
+    },
+    {
+      "file": "ScreenRecording_10-10-2026 19-28-01_1.mp4",
+      "sha256": "32e56e54b07e925a50fba467789c1f2dc926a1c63800c365c454f2a78a9f07b2"
+    }
+  ],
+  "assets": [
+    {
+      "file": "hero_idle.png",
+      "video": 1,
+      "time": 17,
+      "kind": "polygon_cutout",
+      "polygon": [
+        [
+          721,
+          273
+        ],
+        [
+          750,
+          257
+        ],
+        [
+          768,
+          259
+        ],
+        [
+          778,
+          280
+        ],
+        [
+          776,
+          298
+        ],
+        [
+          791,
+          299
+        ],
+        [
+          799,
+          305
+        ],
+        [
+          810,
+          301
+        ],
+        [
+          817,
+          311
+        ],
+        [
+          790,
+          325
+        ],
+        [
+          783,
+          330
+        ],
+        [
+          795,
+          397
+        ],
+        [
+          784,
+          402
+        ],
+        [
+          767,
+          399
+        ],
+        [
+          759,
+          384
+        ],
+        [
+          750,
+          399
+        ],
+        [
+          733,
+          400
+        ],
+        [
+          733,
+          360
+        ],
+        [
+          715,
+          375
+        ],
+        [
+          706,
+          372
+        ],
+        [
+          725,
+          352
+        ],
+        [
+          688,
+          367
+        ],
+        [
+          684,
+          362
+        ],
+        [
+          730,
+          334
+        ],
+        [
+          735,
+          307
+        ],
+        [
+          742,
+          288
+        ]
+      ],
+      "mirror": true,
+      "foot_pixel": [
+        256,
+        480
+      ],
+      "limitations": "Screen pixels; some background fringe and baked lighting remain. Occluded detail is unavailable."
+    },
+    {
+      "file": "hero_windup.png",
+      "video": 1,
+      "time": 7,
+      "kind": "polygon_cutout",
+      "polygon": [
+        [
+          448,
+          219
+        ],
+        [
+          461,
+          214
+        ],
+        [
+          472,
+          220
+        ],
+        [
+          479,
+          237
+        ],
+        [
+          477,
+          251
+        ],
+        [
+          489,
+          262
+        ],
+        [
+          501,
+          282
+        ],
+        [
+          493,
+          288
+        ],
+        [
+          480,
+          275
+        ],
+        [
+          482,
+          299
+        ],
+        [
+          494,
+          322
+        ],
+        [
+          478,
+          329
+        ],
+        [
+          459,
+          322
+        ],
+        [
+          448,
+          328
+        ],
+        [
+          440,
+          320
+        ],
+        [
+          446,
+          285
+        ],
+        [
+          427,
+          268
+        ],
+        [
+          422,
+          254
+        ],
+        [
+          434,
+          249
+        ],
+        [
+          449,
+          252
+        ],
+        [
+          454,
+          239
+        ]
+      ],
+      "mirror": true,
+      "foot_pixel": [
+        256,
+        480
+      ],
+      "limitations": "Screen pixels; some background fringe and baked lighting remain. Occluded detail is unavailable."
+    },
+    {
+      "file": "hero_strike.png",
+      "video": 1,
+      "time": 15,
+      "kind": "polygon_cutout",
+      "polygon": [
+        [
+          651,
+          240
+        ],
+        [
+          674,
+          234
+        ],
+        [
+          685,
+          223
+        ],
+        [
+          715,
+          227
+        ],
+        [
+          724,
+          242
+        ],
+        [
+          716,
+          251
+        ],
+        [
+          730,
+          262
+        ],
+        [
+          739,
+          283
+        ],
+        [
+          733,
+          292
+        ],
+        [
+          731,
+          302
+        ],
+        [
+          725,
+          311
+        ],
+        [
+          716,
+          308
+        ],
+        [
+          703,
+          303
+        ],
+        [
+          690,
+          292
+        ],
+        [
+          661,
+          302
+        ],
+        [
+          659,
+          297
+        ],
+        [
+          693,
+          278
+        ],
+        [
+          686,
+          266
+        ],
+        [
+          669,
+          270
+        ],
+        [
+          656,
+          264
+        ],
+        [
+          648,
+          255
+        ]
+      ],
+      "mirror": false,
+      "foot_pixel": [
+        256,
+        480
+      ],
+      "limitations": "Screen pixels; some background fringe and baked lighting remain. Occluded detail is unavailable."
+    },
+    {
+      "file": "enemy_idle.png",
+      "video": 1,
+      "time": 17,
+      "kind": "polygon_cutout",
+      "polygon": [
+        [
+          541,
+          124
+        ],
+        [
+          552,
+          109
+        ],
+        [
+          583,
+          112
+        ],
+        [
+          598,
+          124
+        ],
+        [
+          616,
+          117
+        ],
+        [
+          633,
+          124
+        ],
+        [
+          635,
+          144
+        ],
+        [
+          651,
+          146
+        ],
+        [
+          662,
+          161
+        ],
+        [
+          655,
+          184
+        ],
+        [
+          657,
+          211
+        ],
+        [
+          638,
+          228
+        ],
+        [
+          618,
+          242
+        ],
+        [
+          606,
+          260
+        ],
+        [
+          616,
+          288
+        ],
+        [
+          622,
+          322
+        ],
+        [
+          607,
+          352
+        ],
+        [
+          601,
+          394
+        ],
+        [
+          579,
+          402
+        ],
+        [
+          560,
+          394
+        ],
+        [
+          548,
+          402
+        ],
+        [
+          515,
+          399
+        ],
+        [
+          510,
+          383
+        ],
+        [
+          486,
+          390
+        ],
+        [
+          464,
+          381
+        ],
+        [
+          435,
+          387
+        ],
+        [
+          445,
+          367
+        ],
+        [
+          430,
+          373
+        ],
+        [
+          447,
+          343
+        ],
+        [
+          468,
+          329
+        ],
+        [
+          483,
+          316
+        ],
+        [
+          496,
+          295
+        ],
+        [
+          506,
+          261
+        ],
+        [
+          520,
+          241
+        ],
+        [
+          533,
+          229
+        ],
+        [
+          519,
+          208
+        ],
+        [
+          517,
+          185
+        ],
+        [
+          524,
+          165
+        ],
+        [
+          534,
+          152
+        ],
+        [
+          534,
+          134
+        ]
+      ],
+      "mirror": false,
+      "foot_pixel": [
+        256,
+        480
+      ],
+      "limitations": "Screen pixels; some background fringe and baked lighting remain. Occluded detail is unavailable."
+    },
+    {
+      "file": "enemy_hurt.png",
+      "video": 1,
+      "time": 22,
+      "kind": "polygon_cutout",
+      "polygon": [
+        [
+          460,
+          135
+        ],
+        [
+          469,
+          118
+        ],
+        [
+          493,
+          120
+        ],
+        [
+          505,
+          130
+        ],
+        [
+          524,
+          121
+        ],
+        [
+          537,
+          131
+        ],
+        [
+          539,
+          151
+        ],
+        [
+          548,
+          158
+        ],
+        [
+          553,
+          181
+        ],
+        [
+          540,
+          203
+        ],
+        [
+          536,
+          218
+        ],
+        [
+          550,
+          244
+        ],
+        [
+          561,
+          271
+        ],
+        [
+          571,
+          307
+        ],
+        [
+          557,
+          333
+        ],
+        [
+          541,
+          327
+        ],
+        [
+          532,
+          315
+        ],
+        [
+          524,
+          331
+        ],
+        [
+          506,
+          334
+        ],
+        [
+          497,
+          320
+        ],
+        [
+          481,
+          333
+        ],
+        [
+          458,
+          331
+        ],
+        [
+          449,
+          320
+        ],
+        [
+          436,
+          323
+        ],
+        [
+          415,
+          328
+        ],
+        [
+          421,
+          307
+        ],
+        [
+          396,
+          318
+        ],
+        [
+          401,
+          294
+        ],
+        [
+          416,
+          277
+        ],
+        [
+          424,
+          252
+        ],
+        [
+          440,
+          234
+        ],
+        [
+          448,
+          215
+        ],
+        [
+          448,
+          196
+        ],
+        [
+          452,
+          176
+        ],
+        [
+          451,
+          151
+        ]
+      ],
+      "mirror": false,
+      "foot_pixel": [
+        256,
+        480
+      ],
+      "limitations": "Screen pixels; some background fringe and baked lighting remain. Occluded detail is unavailable."
+    },
+    {
+      "file": "courtyard_reconstructed.png",
+      "video": 1,
+      "time": 7,
+      "kind": "crop_and_inpaint",
+      "crop": [
+        40,
+        45,
+        1030,
+        380
+      ],
+      "limitations": "Large masked areas are algorithmic fill, not recovered scene detail."
+    },
+    {
+      "file": "wall_strip.png",
+      "video": 1,
+      "time": 3,
+      "kind": "crop",
+      "crop": [
+        120,
+        90,
+        850,
+        80
+      ]
+    },
+    {
+      "file": "floor_patch.png",
+      "video": 1,
+      "time": 17,
+      "kind": "crop",
+      "crop": [
+        75,
+        275,
+        160,
+        80
+      ]
+    },
+    {
+      "file": "fx_00.png",
+      "video": 1,
+      "time": 7.85,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_01.png",
+      "video": 1,
+      "time": 7.8667,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_02.png",
+      "video": 1,
+      "time": 7.8833,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_03.png",
+      "video": 1,
+      "time": 7.9,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_04.png",
+      "video": 1,
+      "time": 7.9167,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_05.png",
+      "video": 1,
+      "time": 7.9333,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_06.png",
+      "video": 1,
+      "time": 7.95,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_07.png",
+      "video": 1,
+      "time": 7.9667,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_08.png",
+      "video": 1,
+      "time": 7.9833,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_09.png",
+      "video": 1,
+      "time": 8.0,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_10.png",
+      "video": 1,
+      "time": 8.0167,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_11.png",
+      "video": 1,
+      "time": 8.0333,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_12.png",
+      "video": 1,
+      "time": 8.05,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_13.png",
+      "video": 1,
+      "time": 8.0667,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_14.png",
+      "video": 1,
+      "time": 8.0833,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_15.png",
+      "video": 1,
+      "time": 8.1,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_16.png",
+      "video": 1,
+      "time": 8.1167,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_17.png",
+      "video": 1,
+      "time": 8.1333,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_18.png",
+      "video": 1,
+      "time": 8.15,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "fx_19.png",
+      "video": 1,
+      "time": 8.1667,
+      "kind": "chroma_mask",
+      "crop": [
+        300,
+        210,
+        270,
+        187
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_00.png",
+      "video": 2,
+      "time": 27.65,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_01.png",
+      "video": 2,
+      "time": 27.6667,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_02.png",
+      "video": 2,
+      "time": 27.6833,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_03.png",
+      "video": 2,
+      "time": 27.7,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_04.png",
+      "video": 2,
+      "time": 27.7167,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_05.png",
+      "video": 2,
+      "time": 27.7333,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_06.png",
+      "video": 2,
+      "time": 27.75,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_07.png",
+      "video": 2,
+      "time": 27.7667,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_08.png",
+      "video": 2,
+      "time": 27.7833,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_09.png",
+      "video": 2,
+      "time": 27.8,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_10.png",
+      "video": 2,
+      "time": 27.8167,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_11.png",
+      "video": 2,
+      "time": 27.8333,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_12.png",
+      "video": 2,
+      "time": 27.85,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_13.png",
+      "video": 2,
+      "time": 27.8667,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_14.png",
+      "video": 2,
+      "time": 27.8833,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_15.png",
+      "video": 2,
+      "time": 27.9,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_16.png",
+      "video": 2,
+      "time": 27.9167,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_17.png",
+      "video": 2,
+      "time": 27.9333,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_18.png",
+      "video": 2,
+      "time": 27.95,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "burst_19.png",
+      "video": 2,
+      "time": 27.9667,
+      "kind": "chroma_mask",
+      "crop": [
+        250,
+        210,
+        440,
+        210
+      ],
+      "limitations": "Red-only FX candidate. May include red HUD/character pixels; not a clean original VFX layer. 60 Hz sampling of 30 fps video repeats some frames."
+    },
+    {
+      "file": "border_top.png",
+      "video": 1,
+      "time": 17,
+      "kind": "luminance_mask",
+      "crop": [
+        10,
+        5,
+        910,
+        37
+      ]
+    },
+    {
+      "file": "border_bottom.png",
+      "video": 1,
+      "time": 17,
+      "kind": "luminance_mask",
+      "crop": [
+        10,
+        427,
+        1080,
+        453
+      ]
+    },
+    {
+      "file": "video1_contact.jpg",
+      "video": 1,
+      "time": 0,
+      "kind": "contact_sheet",
+      "interval_seconds": 2
+    },
+    {
+      "file": "video2_contact.jpg",
+      "video": 2,
+      "time": 0,
+      "kind": "contact_sheet",
+      "interval_seconds": 2
+    }
+  ],
+  "unrecoverable": [
+    "original layered sprites",
+    "occluded poses and body parts",
+    "original 3D map geometry",
+    "original VFX node graphs",
+    "isolated voice/music/effects audio"
+  ]
+}
